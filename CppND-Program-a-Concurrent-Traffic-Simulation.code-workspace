@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"condition_variable": "cpp",
+			"chrono": "cpp"
+		}
+	}
+}
